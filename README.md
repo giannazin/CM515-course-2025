@@ -4,7 +4,7 @@ Image analysis with Rosi
 Protein Structure Data with Teagan
 
 ### For R:
-Make a link to include the four most useful R modules for you
+
 
 1) [RStudio Intro](https://github.com/giannazin/CM515-course-2025/tree/main/modules/02_RStudio)
 
@@ -16,15 +16,18 @@ Make a link to include the four most useful R modules for you
 
 ...
 ### Non-R related modules:
-Make links to at least 2 Interesting Non-R related Modules
 
-[Label][Relative Link]
-[AI?](Modules/Someother module)
+1) [Programming Basics](https://github.com/giannazin/CM515-course-2025/tree/main/modules/12_Programming_Basics)
+
+2) [Image Analysis & Cell Profiler](https://github.com/giannazin/CM515-course-2025/tree/main/modules/13_Image_Analysis/15_Image_Analysis)
+
+
 ## Link to my website:
-[My github website link](URL here)
+[My github website link]((https://github.com/giannazin))
 
 
-## CM515-course-2025
+
+### CM515-course-2025
 
 | Monday               | Wednesday            | Module | Description                        | Instructor         | Week |
 |----------------------|----------------------|--------|------------------------------------|--------------------|------|
