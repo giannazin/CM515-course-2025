@@ -14,7 +14,7 @@ Protein Structure Data with Teagan
 
 4) [Files and Folders](https://github.com/giannazin/CM515-course-2025/tree/main/modules/03_Files_and_Folders)
 
-...
+
 ### Non-R related modules:
 
 1) [Programming Basics](https://github.com/giannazin/CM515-course-2025/tree/main/modules/12_Programming_Basics)
@@ -23,7 +23,7 @@ Protein Structure Data with Teagan
 
 
 ## Link to my website:
-[My github website link]((https://github.com/giannazin))
+[My github website](https://github.com/giannazin)
 
 
 
