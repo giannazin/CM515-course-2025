@@ -1,25 +1,25 @@
-My Favorite Modules were:
+## My Favorite Modules were:
 Plots in presentation with Dr. Dan Sloan
 Image analysis with Rosi
 Protein Structure Data with Teagan
 
-For R:
+### For R:
 Make a link to include the four most useful R modules for you
-[RStudio Intro]([https://pages.github.com/](https://github.com/giannazin/CM515-course-2025/tree/main/modules/02_RStudio))
+[RStudio Intro](https://github.com/giannazin/CM515-course-2025/tree/main/modules/02_RStudio)
 
 RStudio
 RStudio
 ...
-Non-R related modules:
+### Non-R related modules:
 Make links to at least 2 Interesting Non-R related Modules
 
 [Label][Relative Link]
 [AI?](Modules/Someother module)
-Link to my website:
+## Link to my website:
 [My github website link](URL here)
 
 
-# CM515-course-2025
+## CM515-course-2025
 
 | Monday               | Wednesday            | Module | Description                        | Instructor         | Week |
 |----------------------|----------------------|--------|------------------------------------|--------------------|------|
