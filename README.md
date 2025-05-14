@@ -6,17 +6,13 @@ Protein Structure Data with Teagan
 ### For R:
 Make a link to include the four most useful R modules for you
 
-1) 
-[RStudio Intro](https://github.com/giannazin/CM515-course-2025/tree/main/modules/02_RStudio)
+1) [RStudio Intro](https://github.com/giannazin/CM515-course-2025/tree/main/modules/02_RStudio)
 
-2)
-[ggplot Visuals](https://github.com/giannazin/CM515-course-2025/tree/main/modules/05_GGplot_Visualization/2025)
+2) [ggplot Visuals](https://github.com/giannazin/CM515-course-2025/tree/main/modules/05_GGplot_Visualization/2025)
 
-3)
-[Presenting Visuals with RStudio](https://github.com/giannazin/CM515-course-2025/tree/main/modules/10_Presenting_Data)
+3) [Presenting Visuals with RStudio](https://github.com/giannazin/CM515-course-2025/tree/main/modules/10_Presenting_Data)
 
-4)
-[Files and Folders](https://github.com/giannazin/CM515-course-2025/tree/main/modules/03_Files_and_Folders)
+4) [Files and Folders](https://github.com/giannazin/CM515-course-2025/tree/main/modules/03_Files_and_Folders)
 
 ...
 ### Non-R related modules:
