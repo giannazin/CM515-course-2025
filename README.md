@@ -5,6 +5,7 @@ Protein Structure Data with Teagan
 
 For R:
 Make a link to include the four most useful R modules for you
+[RStudio Intro]([https://pages.github.com/](https://github.com/giannazin/CM515-course-2025/tree/main/modules/02_RStudio))
 
 RStudio
 RStudio
